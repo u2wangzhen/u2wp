@@ -1,6 +1,2 @@
 asfsadfsdaf
-<<<<<<< HEAD
-abcd
-=======
-1234
->>>>>>> 8d84d699ac03176c69e6a5dddc9a9fdeb9cbfac5
+222
